@@ -1,5 +1,15 @@
 # Dropdown Character Maker
 
+## Learning Objectives
+- Use a for/of  loop to run a function against every item in an array (i.e., console.log , alert ).
+- In response to a user event, add a new item to a state array and display the new state to the user (i.e., add a new todo).
+- Use the .value  property to get the value of a 'grabbed' HTML form input tag
+- Use .createElement() and .append()  to display a new HTML tag (with .textContent ) to a grabbed DOM element on click.
+- Use .createElement() and .append()  to add a list of new DOM  elements to a grabbed DOM element on click
+- Create a select element to create a dropdown.
+- Use + and `${}` to concatenate strings.
+- Identify what variables are in a given scope/closure
+
 [Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
 
 ### Live Example:
