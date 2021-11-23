@@ -1,6 +1,4 @@
 // import functions and grab DOM elements
-
-
 const headDropdown = document.getElementById('head-dropdown');
 const middleDropdown = document.getElementById('middle-dropdown');
 const bottomDropdown = document.getElementById('bottom-dropdown');
