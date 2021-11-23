@@ -1,4 +1,4 @@
-# Deliverable 02 - Dropdown Character Maker
+# Dropdown Character Maker
 
 [Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
 
