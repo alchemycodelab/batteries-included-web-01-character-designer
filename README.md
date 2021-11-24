@@ -15,7 +15,7 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-character-designer/
 
-![](https://github.com/alchemycodelab/half-baked-js-character-designer/blob/main/assets/character-designer.png)
+![](https://raw.githubusercontent.com/alchemycodelab/half-baked-js-character-designer/main/assets/character-designer.png)
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------| ----------: |
