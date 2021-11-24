@@ -15,7 +15,7 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-character-designer/
 
-![](./assets/character-designer.png)
+![](assets/character-designer.png)
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------| ----------: |
