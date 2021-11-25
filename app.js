@@ -1,4 +1,5 @@
 // import functions and grab DOM elements
+import { makeStatsString } from './utils.js';
 const headDropdown = document.getElementById('head-dropdown');
 const middleDropdown = document.getElementById('middle-dropdown');
 const bottomDropdown = document.getElementById('bottom-dropdown');
@@ -57,6 +58,7 @@ catchphraseButton.addEventListener('click', () => {
 
 function displayStats() {
     // change the text contentof the reportEl to tell the user how many times they've changed each piece of the state
+    const statsString = makeStatsString(); // call this function with the correct arguments
 }
 
 function displayCatchphrases() {
