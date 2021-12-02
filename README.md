@@ -30,7 +30,7 @@ https://alchemycodelab.github.io/js-character-designer/
 
 | Functions                                                              |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| PURE with TDD: `createStatsString` | 1 |
+| PURE with TDD: `createStatsString(headCount, middleCount, bottomCount) : returns a string describing the counts. Note, there is already a test for this function--get that test passing` | 1 |
 | IMPURE: `displayStats()` | 1 |
 | IMPURE: `displayCatchphrases()` | 1 |
 
