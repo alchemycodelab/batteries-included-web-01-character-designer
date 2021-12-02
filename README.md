@@ -13,7 +13,7 @@
 [Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
 
 ### Live Example:
-https://alchemycodelab.github.io/js-character-designer/
+https://alchemycodelab.github.io/web-01-character-designer/
 
 
 | User should be able to . . .                                                         |             |
