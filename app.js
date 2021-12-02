@@ -21,7 +21,7 @@ headDropdown.addEventListener('change', () => {
     
     // update the dom for the head (use backgroundImage on the div instead of trying to set the .src)
 
-    // update the stats to show the new count
+    // update the stats to show the new count (refactor to/call displayStats() to do this work)
 });
 
 
@@ -32,7 +32,7 @@ middleDropdown.addEventListener('change', () => {
     
     // update the dom for the middle (use backgroundImage on the div instead of trying to set the .src)
 
-    // update the stats to show the new count
+    // update the stats to show the new count (refactor to/call displayStats() to do this work)
 });
 
 
@@ -43,16 +43,17 @@ bottomDropdown.addEventListener('change', () => {
     
     // update the dom for the bottom (use backgroundImage on the div instead of trying to set the .src)
 
-    // update the stats to show the new count
+    // update the stats to show the new count (refactor to/call displayStats() to do this work)
 });
 
 catchphraseButton.addEventListener('click', () => {
     // get the value of the catchphrase input
     
     // push the new catchphrase to the catchphrase array in state
-    // update the dom for the bottom
+
     // clear out the form input's value so it's empty to the user
-    // update the dom to show the new catchphrases (call a function to do this work)
+   
+    // update the dom to show the new catchphrases (refactor to/call displayCatchphrases to do this work)
 
 });
 
@@ -65,7 +66,10 @@ function displayCatchphrases() {
     // clear out the DOM for the currently displayed catchphrases
 
     // loop through each catchphrase in state
+   
     // and for each catchphrase
+    
     // create an HTML element with the catchphrase as its text content
+    
     // and append that HTML element to the cleared-out DOM
 }
