@@ -7,7 +7,7 @@
 - Use .createElement() and .append()  to display a new HTML tag (with .textContent ) to a grabbed DOM element on click.
 - Use .createElement() and .append()  to add a list of new DOM  elements to a grabbed DOM element on click
 - Create a select element to create a dropdown.
-- Use + and `${}` to concatenate strings.
+- Use `+` and `${}` to concatenate strings.
 - Identify what variables are in a given scope/closure
 
 [Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
