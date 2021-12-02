@@ -19,7 +19,7 @@ headDropdown.addEventListener('change', () => {
 
     // increment the head change count state
     
-    // update the dom for the head
+    // update the dom for the head (use backgroundImage on the div instead of trying to set the .src)
 
     // update the stats to show the new count
 });
@@ -30,7 +30,7 @@ middleDropdown.addEventListener('change', () => {
 
     // increment the middle change count state
     
-    // update the dom for the middle
+    // update the dom for the middle (use backgroundImage on the div instead of trying to set the .src)
 
     // update the stats to show the new count
 });
@@ -41,7 +41,7 @@ bottomDropdown.addEventListener('change', () => {
 
     // increment the bottom change count state
     
-    // update the dom for the bottom
+    // update the dom for the bottom (use backgroundImage on the div instead of trying to set the .src)
 
     // update the stats to show the new count
 });
