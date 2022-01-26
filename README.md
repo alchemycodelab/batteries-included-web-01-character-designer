@@ -19,13 +19,9 @@ https://alchemycodelab.github.io/web-01-character-designer/
 
 User [this repository](https://github.com/alchemycodelab/half-baked-web-01-character-designer) as a template for this deliverable.
 
-| User should be able to . . .                                                                |     |
-| :------------------------------------------------------------------------------------------ | --: |
-| Visit the deployed pages on GitHub pages, with link in the About section of the Github repo |   1 |
-
 | Events . . .                                                                                                                                          |     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
-| Select from at least three dropdowns with at least three options each                                                                                 |   1 |
+| Select from at least three dropdowns with at least three options each                                                                                 |   2 |
 | On choosing an option from the dropdown and see the change reflected in the UI with a new image                                                       |   1 |
 | On change, See all catchphrases rendered to the DOM                                                                                                   |   2 |
 | When submitting a catchphrase, add it to an array of catchphrases, clear the current DOM's list of catchphrases, and list all catchphrases in the DOM |   1 |
