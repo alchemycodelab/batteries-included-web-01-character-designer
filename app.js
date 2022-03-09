@@ -1,5 +1,4 @@
 // import functions and grab DOM elements
-import { makeStatsString } from './utils.js';
 const headDropdown = document.getElementById('head-dropdown');
 const middleDropdown = document.getElementById('middle-dropdown');
 const bottomDropdown = document.getElementById('bottom-dropdown');
@@ -21,7 +20,7 @@ headDropdown.addEventListener('change', () => {
     
     // update the dom for the head (use style.backgroundImage on the bottomEl div instead of trying to set the .src -- it's NOT an img tag!)
 
-    // update the stats to show the new count (refactor to/call displayStats() to do this work)
+    // update the stats to show the new count (call displayStats() to do this work)
 });
 
 
@@ -32,7 +31,7 @@ middleDropdown.addEventListener('change', () => {
     
     // update the dom for the middle (NOTE: use style.backgroundImage on the middleEl div instead of trying to set the .src -- it's NOT an img tag!)
 
-    // update the stats to show the new count (refactor to/call displayStats() to do this work)
+    // update the stats to show the new count (call displayStats() to do this work)
 });
 
 
@@ -43,7 +42,7 @@ bottomDropdown.addEventListener('change', () => {
     
     // update the dom for the bottom (NOTE use style.backgroundImage on the bottomEl div instead of trying to set the .src -- it's NOT an img tag!)
 
-    // update the stats to show the new count (refactor to/call displayStats() to do this work)
+    // update the stats to show the new count (call displayStats() to do this work)
 });
 
 catchphraseButton.addEventListener('click', () => {
@@ -58,9 +57,7 @@ catchphraseButton.addEventListener('click', () => {
 });
 
 function displayStats() {
-    const statsString = makeStatsString(); // call this function with the correct arguments
-    
-    // use statsString to change the text content of the reportEl to tell the user how many times they've changed each piece of the state
+    // text content of the reportEl to tell the user how many times they've changed each piece of the state
 }
 
 function displayCatchphrases() {
