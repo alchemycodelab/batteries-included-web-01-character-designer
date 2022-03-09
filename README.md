@@ -29,6 +29,6 @@ User [this repository](https://github.com/alchemycodelab/half-baked-web-01-chara
 
 | Functions                                                                                                                                                                                |     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
-| PURE: `displayString() : mutates the DOM to display a string describing the counts.` |   1 |
+| IMPURE: `displayString() : mutates the DOM to display a string describing the counts.` |   1 |
 | IMPURE: `displayStats()`                                                                                                                                                                 |   1 |
 | IMPURE: `displayCatchphrases()`                                                                                                                                                          |   1 |
