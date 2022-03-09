@@ -29,6 +29,6 @@ User [this repository](https://github.com/alchemycodelab/half-baked-web-01-chara
 
 | Functions                                                                                                                                                                                |     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
-| PURE with TDD: `createStatsString(headCount, middleCount, bottomCount) : returns a string describing the counts. Note, there is already a test for this function--get that test passing` |   1 |
+| PURE: `displayString() : mutates the DOM to display a string describing the counts.` |   1 |
 | IMPURE: `displayStats()`                                                                                                                                                                 |   1 |
 | IMPURE: `displayCatchphrases()`                                                                                                                                                          |   1 |
