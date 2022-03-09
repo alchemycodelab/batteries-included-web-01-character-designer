@@ -29,5 +29,5 @@ User [this repository](https://github.com/alchemycodelab/half-baked-web-01-chara
 
 | Functions                                                                                                                                                                                |     |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
-| IMPURE: `displayStats() : mutates the DOM to display a string describing the counts.` |   2 |
-| IMPURE: `displayCatchphrases() : clears out the old list from the DOM, loops through catchphrases, renders and appends to the list element`                                                                                                                                                          |   1 |
+| IMPURE: `displayStats() : mutates the DOM to display a string describing the counts.` |   1 |
+| IMPURE: `displayCatchphrases() : clears out the old list from the DOM, loops through catchphrases, renders and appends to the list element`                                                                                                                                                          |   2 |
