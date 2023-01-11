@@ -32,8 +32,7 @@ The following is required for your assignment to be graded:
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
 | Select from at least three dropdowns with at least three options each                                                                                 |   2 |
 | On choosing an option from the dropdown and see the change reflected in the UI with a new image                                                       |   1 |
-| On change, See all catchphrases rendered to the DOM                                                                                                   |   2 |
-| When submitting a catchphrase, add it to an array of catchphrases, clear the current DOM's list of catchphrases, and list all catchphrases in the DOM |   1 |
+| When submitting a catchphrase, add it to an array of catchphrases, clear the current DOM's list of catchphrases, and list all catchphrases in the DOM |   3 |
 | See displayed how many times each dropdown has been changed in the current session                                                                    |   1 |
 
 | Functions                                                                                                                                   |     |
